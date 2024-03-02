@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a diverse
 - 🏗️ Well-versed in architectural concepts including Clean Architecture, MVC, MVP, and MVVM.
 - 🛠️ Proficient in development tools such as Android Studio, Visual Studio, and Git.
 
-## Projects I've Worked On
+## Skills and Technologies
 - 🌐 Web Technologies: REST API, jQuery, Axios.
 - 🌟 Web Development: HTML5, CSS3, JSX.
 - 📑 Data Formats: JSON, XML.
